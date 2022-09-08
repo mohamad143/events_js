@@ -1,0 +1,32 @@
+body {
+  margin: 200px;
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkVRjRpTM9lTvb1rd7l_wj02r-q4tGUp9KMQ&usqp=CAU");
+  background-position:inherit
+ }
+.menu li:hover {
+    background-color: #0099cc;
+  }
+  .menu ul {
+    list-style-type: none;
+  }
+  .menu{
+    margin: 50px;
+    padding: 60px;
+  }
+  
+  .menu li {
+    padding: 8px;
+    margin-bottom: 7px;
+    background-color: #33b5e5;
+    color: #ffffff;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+  }
+  #lower-div{
+    padding: 8px;
+    margin-bottom: 7px;
+    background-color: #33e565;
+    color: #ffffff;
+    display: none;
+  }
+
+ 
